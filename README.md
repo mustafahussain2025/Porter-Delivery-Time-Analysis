@@ -50,6 +50,7 @@ Dataset: [Download Dataset](https://drive.google.com/file/d/1SzTmeY9FZEnfLchM819
      - Visualizations of order volume trends.
      - Insights on average delivery times by market and restaurant category.
      - Performance metrics for delivery partner availability and order protocols.
+     - Power Bi report link : https://app.powerbi.com/groups/me/reports/4b1c9cf1-e420-4efd-a7eb-3997dcee6beb/ReportSection?experience=power-bi
 
 **Conclusion**
 
